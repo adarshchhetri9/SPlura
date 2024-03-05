@@ -1,0 +1,2 @@
+# SPlura
+Learning Project
